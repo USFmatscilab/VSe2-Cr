@@ -1,0 +1,29 @@
+##========================================
+## surface region is bounded by lines
+## y = -1.8
+## and 
+## y = -3.5
+##========================================
+##
+#layer  energy  description
+0.06    -2.96  # on surface 2c
+0.06    -1.85  # on surface 2d
+0.06    -4.06  # in layer 3e
+0.06    -2.96  # on surface 6i
+0.06    -3.07  # on surface 6g
+0.06    -3.07  # on surface 12j
+0.06  -4.85    # inserted 1a (octa)
+0.06  -4.64    # inserted 2c  
+0.06  -3.60    # inserted 2d (tetra)
+0.06  -3.64    # inserted 3e
+0.06  -5.09    # inserted 6g
+0.06  -4.96    # inserted 6i
+0.06  -5.09    # inserted 12j
+0.25   -5.5 
+0.33   -4.8 
+0.50   -4.4
+0.66   -3.3
+0.75   -3.1
+1.00   -1.5
+
+
