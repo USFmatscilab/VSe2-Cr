@@ -1,0 +1,53 @@
+data_stdin
+_audit_creation_method 'critic2'
+_audit_creation_date 2023-4-24
+_chemical_formula_sum 'Cr Se64 V32'
+_cell_formula_units_Z 1
+_cell_length_a        13.2987005764
+_cell_length_b        13.2987005764
+_cell_length_c        30.0000000000
+_cell_angle_alpha        90.0000
+_cell_angle_beta        90.0000
+_cell_angle_gamma       120.0000
+_cell_volume          4594.839038
+_space_group_crystal_system trigonal
+_space_group_IT_number 164
+_space_group_name_H-M_alt 'P-3m1'
+_space_group_name_Hall '-P 3 2"'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+ 1 'x,y,z'
+ 2 '-x,-y,-z'
+ 3 '-y,x-y,z'
+ 4 'y,-x+y,-z'
+ 5 '-x+y,-x,z'
+ 6 'x-y,x,-z'
+ 7 'x-y,-y,-z'
+ 8 '-x+y,y,z'
+ 9 '-x,-x+y,-z'
+ 10 'x,x-y,z'
+ 11 'y,x,-z'
+ 12 '-y,-x,z'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Se     Se     0.08810899268908     0.17621798537815     0.94993877004979
+Se     Se     0.08192991754174     0.41932936332015     0.95022145882105
+Se     Se     0.34216262243689     0.17108131171845     0.95265097859005
+Se     Se     0.33333334300000     0.66666668700000     0.94807962438662
+Se     Se     0.58443820284931     0.16887645169864     0.95149451553684
+Se     Se     0.08319975793187     0.16639951586374     0.15144759598241
+Se     Se     0.08606721432648     0.41979758248340     0.15676391055455
+Se     Se     0.32594411862329     0.16297205981164     0.15157124928061
+Se     Se     0.33333334300000     0.66666668700000     0.15812188539293
+Se     Se     0.58296367140186     0.16592738880374     0.15394752097907
+V      V      0.00000000000000     0.00000000000000     0.90391032778646
+V      V      0.98459036175822     0.25442155786542     0.89881046950093
+V      V      0.99279905471200     0.49639952735600     0.89747601428162
+V      V      0.24705361325046     0.49410722650092     0.89741967122848
+V      V      0.50948707956882     0.25474353978441     0.89773627154462
+Cr     Cr     0.00000000000000     0.00000000000000     0.00000000000000

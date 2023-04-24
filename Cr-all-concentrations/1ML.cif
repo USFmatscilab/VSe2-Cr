@@ -1,0 +1,33 @@
+data_stdin
+_audit_creation_method 'critic2'
+_audit_creation_date 2023-4-24
+_chemical_formula_sum 'Cr Se4 V2'
+_cell_formula_units_Z 1
+_cell_length_a         3.6024373919
+_cell_length_b         3.6024373918
+_cell_length_c        30.4019985199
+_cell_angle_alpha        90.0000
+_cell_angle_beta        90.0000
+_cell_angle_gamma       120.0000
+_cell_volume           341.684792
+_space_group_crystal_system triclinic
+_space_group_IT_number 1
+_space_group_name_H-M_alt 'P 1'
+_space_group_name_Hall 'P 1'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+ 1 'x,y,z'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+V      V      0.99999999430700     0.00000000000000     0.20380067712198
+V      V      0.99999999430700     0.00000000000000     0.40148844516894
+Cr     Cr     0.99999999430700     0.00000000000000     0.30264454469917
+Se     Se     0.33333330507826     0.66666661017640     0.25652165434031
+Se     Se     0.66666664969264     0.33333330508820     0.34876743505803
+Se     Se     0.33333330507826     0.66666661017640     0.44684563963798
+Se     Se     0.66666664969264     0.33333330508820     0.15844348265294
